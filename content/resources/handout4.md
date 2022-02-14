@@ -7,7 +7,12 @@ description: Lecture Handout 4. In this course student teams report their progre
   breakout session presentations are explained in the handouts.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-875-applications-of-system-dynamics-spring-2004/524ee8a1f1549e808277d927dca3791a_handout4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: handout4.pdf
+type: OCWFile
 uid: 524ee8a1-f154-9e80-8277-d927dca3791a
 ---
