@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: countdown.pdf
-type: OCWFile
 uid: 7cd845df-b86d-5a63-df2c-f6882d72b5b9
 ---

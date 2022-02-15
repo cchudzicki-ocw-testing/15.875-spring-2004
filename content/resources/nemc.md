@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nemc.pdf
-type: OCWFile
 uid: f0f9452e-cc13-6115-be1e-5f2ddfb17440
 ---

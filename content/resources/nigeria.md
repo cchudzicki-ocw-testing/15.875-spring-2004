@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nigeria.pdf
-type: OCWFile
 uid: 673c9dea-f6d3-8d05-169c-eea6d938f56c
 ---

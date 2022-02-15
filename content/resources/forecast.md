@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: forecast.pdf
-type: OCWFile
 uid: 9b247e0a-df0d-36b6-8552-a5310953386f
 ---

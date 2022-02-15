@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ses1.pdf
-type: OCWFile
 uid: 80c54a36-f2e1-d9a7-decc-f1973f9a7aa7
 ---

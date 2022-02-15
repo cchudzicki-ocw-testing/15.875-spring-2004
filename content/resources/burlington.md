@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: burlington.pdf
-type: OCWFile
 uid: 0cf7683f-9346-3a2d-f5cd-096e6e3ef371
 ---

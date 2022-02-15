@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nasa.pdf
-type: OCWFile
 uid: 62b0fe4b-0437-fe70-6de0-6ffc3fa1346d
 ---

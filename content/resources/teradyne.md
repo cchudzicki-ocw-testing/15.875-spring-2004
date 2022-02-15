@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: teradyne.pdf
-type: OCWFile
 uid: 299da367-63cb-de29-e5f4-9b3147f7022b
 ---

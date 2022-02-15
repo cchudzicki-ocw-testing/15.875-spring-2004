@@ -14,6 +14,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: insights.pdf
-type: OCWFile
 uid: ae6331b3-70e7-2c71-d954-df2494ceee9e
 ---

@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: molecules.zip
-type: OCWFile
 uid: 7e40c556-d243-9852-4c4c-5759bfbecd92
 ---

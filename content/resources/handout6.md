@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: handout6.pdf
-type: OCWFile
 uid: f062219d-6ffc-2a0b-47bb-71ef03a5a5c9
 ---

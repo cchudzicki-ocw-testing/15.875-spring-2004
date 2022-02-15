@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: quinn.pdf
-type: OCWFile
 uid: e7ab922b-aced-68d8-1d09-66d58774b238
 ---

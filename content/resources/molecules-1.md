@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: molecules.pdf
-type: OCWFile
 uid: 854417cb-e079-d977-07d0-6fbaafbc1d23
 ---

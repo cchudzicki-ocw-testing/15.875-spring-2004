@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: stnd_method.pdf
-type: OCWFile
 uid: 27e71bdb-46c7-9e80-9115-8fc0fb3ebd8d
 ---

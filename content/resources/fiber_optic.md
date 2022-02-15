@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: fiber_optic.pdf
-type: OCWFile
 uid: 2a7561be-0506-3a12-1f76-0db2c59b2986
 ---
