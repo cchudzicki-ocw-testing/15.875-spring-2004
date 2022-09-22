@@ -5,6 +5,7 @@ description: 'The ZIP file contains: 89 .mdl files, 10 .1mdl files, 84 .2mdl fil
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/7e40c556d24398524c4c5759bfbecd92_molecules.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
